@@ -10,3 +10,10 @@
 
 - test plans /all-student-name
 ![4272E4B5-04D3-4C52-8134-4937423AF7C0](https://github.com/Kenzo911/exercise-profiling/assets/52792716/4ffcf96b-05f8-4b6c-b0e2-b3055cb2435d)
+
+- pre improvement getAllStudentsWithCourses(), 2380 ms
+![76AC2732-DBFF-4915-80BC-4AA9C85DF472](https://github.com/Kenzo911/exercise-profiling/assets/52792716/beac2cb1-6525-4c01-aede-cf0a81f00613)
+
+- after imporvement getAllStudentsWithCourses() 570 ms
+![616C4001-62DF-4A88-A0E0-C3CA1C2FD301](https://github.com/Kenzo911/exercise-profiling/assets/52792716/9e9bf852-5f9b-436d-9f0f-fef6ffc0ae17)
+
